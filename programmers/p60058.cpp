@@ -1,4 +1,4 @@
-// 문제를 잘 읽자  문자열 문제
+//  문자열 문제
 
 #include <string>
 #include <vector>
