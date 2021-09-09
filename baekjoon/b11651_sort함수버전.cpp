@@ -9,6 +9,7 @@ vector<pair<int,int>> arr;
 
 bool compare(pair<int,int> &one, pair<int,int> &two)
 {
+
 // 	if(one.second == two.second)
 // 		return one.first < two.first;
 // 	else
